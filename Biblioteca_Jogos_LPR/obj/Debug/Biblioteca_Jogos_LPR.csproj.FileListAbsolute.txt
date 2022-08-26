@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\bin\Debug\Biblioteca_Jogos_LPR.exe.config
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\bin\Debug\Biblioteca_Jogos_LPR.exe
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\bin\Debug\Biblioteca_Jogos_LPR.pdb
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\obj\Debug\Biblioteca_Jogos_LPR.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\obj\Debug\Biblioteca_Jogos_LPR.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\obj\Debug\Biblioteca_Jogos_LPR.exe
+C:\Users\Aluno\source\repos\Biblioteca_Jogos_LPR\Biblioteca_Jogos_LPR\obj\Debug\Biblioteca_Jogos_LPR.pdb
